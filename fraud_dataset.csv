@@ -1,0 +1,1001 @@
+transaction_id,amount,transaction_hour,merchant_category,location,device_type,transaction_frequency,previous_fraud_count,is_fraud
+TXN100000,902.09,4,Restaurants,Pune,POS Terminal,1,0,0
+TXN100001,235.1,15,Entertainment,Hyderabad,Desktop,6,0,0
+TXN100002,1408.74,9,Clothing,Chennai,Mobile,10,1,0
+TXN100003,1703.71,8,Entertainment,Delhi,Mobile,5,0,0
+TXN100004,94.53,16,Restaurants,Chennai,Desktop,13,0,1
+TXN100005,180.88,9,Jewelry,Madurai,Mobile,13,0,0
+TXN100006,755.85,11,Electronics,Madurai,POS Terminal,8,0,0
+TXN100007,484.81,10,Travel,Trichy,POS Terminal,6,2,1
+TXN100008,654.06,6,Grocery,Kolkata,Mobile,1,0,0
+TXN100009,283.43,3,Restaurants,Hyderabad,POS Terminal,13,0,0
+TXN100010,1602.62,19,Restaurants,Madurai,ATM,14,0,0
+TXN100011,1447.79,2,Electronics,Hyderabad,Desktop,7,2,1
+TXN100012,710.54,7,Entertainment,Trichy,Desktop,8,0,0
+TXN100013,2053.38,16,Travel,Bangalore,POS Terminal,12,0,0
+TXN100014,1061.58,3,Electronics,Hyderabad,Mobile,11,0,1
+TXN100015,281.66,15,Grocery,Madurai,POS Terminal,3,0,0
+TXN100016,961.75,17,Restaurants,Kolkata,Mobile,11,0,0
+TXN100017,254.96,15,Travel,Coimbatore,Desktop,14,0,0
+TXN100018,1601.11,7,Travel,Chennai,POS Terminal,12,0,0
+TXN100019,632.75,0,Electronics,Hyderabad,Desktop,8,0,0
+TXN100020,552.88,21,Entertainment,Kolkata,Desktop,8,0,0
+TXN100021,336.66,7,Online Services,Madurai,Desktop,4,0,0
+TXN100022,2258.69,19,Restaurants,Trichy,Mobile,10,0,0
+TXN100023,569.91,4,Fuel,Pune,Mobile,4,0,0
+TXN100024,433.4,3,Online Services,Bangalore,Mobile,6,0,0
+TXN100025,467.72,18,Healthcare,Chennai,Desktop,4,3,1
+TXN100026,1132.64,22,Fuel,Mumbai,Mobile,6,0,0
+TXN100027,958.57,20,Online Services,Madurai,Mobile,6,0,0
+TXN100028,1004.99,18,Online Services,Pune,POS Terminal,2,0,0
+TXN100029,1023.33,5,Entertainment,Coimbatore,Mobile,11,0,0
+TXN100030,5662.65,21,Restaurants,Hyderabad,Mobile,7,0,0
+TXN100031,443.01,16,Grocery,Hyderabad,Mobile,15,0,0
+TXN100032,398.52,4,Grocery,Coimbatore,Mobile,3,0,0
+TXN100033,294.78,3,Restaurants,Bangalore,POS Terminal,11,0,0
+TXN100034,1231.49,20,Restaurants,Chennai,Mobile,3,0,0
+TXN100035,2056.94,6,Restaurants,Mumbai,Mobile,9,0,0
+TXN100036,593.51,18,Fuel,Delhi,ATM,8,1,0
+TXN100037,287.1,3,Fuel,Pune,POS Terminal,7,0,0
+TXN100038,291.64,6,Jewelry,Madurai,POS Terminal,10,0,0
+TXN100039,1274.86,6,Grocery,Coimbatore,POS Terminal,13,0,0
+TXN100040,1398.64,6,Electronics,Hyderabad,POS Terminal,5,0,0
+TXN100041,1144.99,16,Entertainment,Mumbai,Mobile,13,0,0
+TXN100042,341.89,21,Jewelry,Pune,Desktop,3,0,0
+TXN100043,838.96,21,Healthcare,Trichy,Desktop,5,0,0
+TXN100044,747.46,17,Online Services,Coimbatore,Mobile,5,0,0
+TXN100045,827.73,4,Online Services,Coimbatore,Mobile,15,0,1
+TXN100046,1589.9,23,Travel,Coimbatore,Mobile,2,0,0
+TXN100047,831.8,13,Restaurants,Bangalore,Tablet,6,0,0
+TXN100048,1311.48,13,Electronics,Kolkata,POS Terminal,7,2,1
+TXN100049,711.64,16,Fuel,Trichy,POS Terminal,13,0,0
+TXN100050,888.13,18,Online Services,Kolkata,Mobile,8,0,0
+TXN100051,1250.49,22,Travel,Mumbai,Mobile,15,0,0
+TXN100052,154.91,13,Fuel,Mumbai,Desktop,12,1,0
+TXN100053,483.15,14,Electronics,Mumbai,Desktop,11,0,0
+TXN100054,415.56,17,Grocery,Chennai,POS Terminal,12,1,0
+TXN100055,351.12,6,Grocery,Delhi,POS Terminal,3,0,0
+TXN100056,505.15,7,Grocery,Coimbatore,POS Terminal,7,0,0
+TXN100057,2965.92,15,Online Services,Hyderabad,POS Terminal,9,0,0
+TXN100058,279.83,1,Restaurants,Mumbai,ATM,4,0,1
+TXN100059,1751.59,7,Jewelry,Mumbai,Desktop,2,0,0
+TXN100060,123.61,17,Clothing,Madurai,Mobile,3,2,0
+TXN100061,475.86,23,Grocery,Madurai,Mobile,12,0,0
+TXN100062,782.7,12,Grocery,Bangalore,Mobile,10,0,0
+TXN100063,1195.38,9,Entertainment,Trichy,Mobile,5,0,0
+TXN100064,1354.55,10,Electronics,Delhi,Mobile,12,0,0
+TXN100065,1470.48,16,Online Services,Trichy,ATM,11,0,0
+TXN100066,469.32,13,Grocery,Bangalore,Mobile,13,1,0
+TXN100067,418.91,0,Clothing,Mumbai,ATM,14,2,1
+TXN100068,1568.66,12,Entertainment,Trichy,POS Terminal,14,0,0
+TXN100069,549.33,9,Electronics,Pune,Desktop,3,0,0
+TXN100070,185.73,16,Electronics,Madurai,Tablet,12,0,0
+TXN100071,214.16,21,Healthcare,Trichy,Mobile,6,1,0
+TXN100072,265.22,23,Electronics,Mumbai,Desktop,7,0,0
+TXN100073,1093.52,14,Restaurants,Hyderabad,Mobile,10,0,0
+TXN100074,766.95,8,Restaurants,Mumbai,POS Terminal,10,2,0
+TXN100075,1326.75,10,Electronics,Delhi,Mobile,7,1,0
+TXN100076,433.87,4,Entertainment,Bangalore,Mobile,15,0,0
+TXN100077,779.41,22,Entertainment,Kolkata,POS Terminal,3,0,0
+TXN100078,1243.38,20,Travel,Madurai,Tablet,2,0,0
+TXN100079,488.16,20,Jewelry,Hyderabad,Desktop,1,0,0
+TXN100080,1050.24,7,Electronics,Chennai,Desktop,13,0,0
+TXN100081,343.12,7,Grocery,Mumbai,Mobile,7,0,0
+TXN100082,462.64,20,Fuel,Coimbatore,Tablet,7,0,0
+TXN100083,454.07,13,Healthcare,Mumbai,Mobile,10,0,0
+TXN100084,201.17,16,Grocery,Kolkata,Mobile,7,0,0
+TXN100085,1082.44,11,Electronics,Kolkata,Mobile,9,0,0
+TXN100086,415.96,10,Restaurants,Pune,Mobile,1,1,0
+TXN100087,673.5,15,Entertainment,Chennai,Mobile,3,0,0
+TXN100088,1075.72,19,Grocery,Chennai,Desktop,14,1,0
+TXN100089,1039.54,8,Restaurants,Pune,Mobile,7,0,0
+TXN100090,1293.86,19,Clothing,Madurai,Mobile,3,0,0
+TXN100091,602.76,5,Travel,Trichy,Desktop,6,0,0
+TXN100092,435.59,9,Grocery,Coimbatore,Mobile,6,0,0
+TXN100093,614.18,21,Grocery,Kolkata,Tablet,5,0,0
+TXN100094,123.06,22,Restaurants,Madurai,POS Terminal,5,0,0
+TXN100095,156.47,22,Restaurants,Trichy,Mobile,11,0,0
+TXN100096,177.2,7,Online Services,Delhi,POS Terminal,2,0,0
+TXN100097,245.37,20,Fuel,Chennai,Mobile,5,0,0
+TXN100098,992.05,22,Clothing,Madurai,Mobile,8,0,0
+TXN100099,268.95,23,Healthcare,Trichy,POS Terminal,9,0,0
+TXN100100,455.7,0,Restaurants,Mumbai,POS Terminal,14,0,0
+TXN100101,2438.72,17,Restaurants,Bangalore,POS Terminal,14,0,0
+TXN100102,465.79,23,Online Services,Kolkata,Mobile,5,0,0
+TXN100103,1390.63,18,Electronics,Madurai,POS Terminal,9,0,0
+TXN100104,261.49,5,Clothing,Coimbatore,Mobile,1,0,0
+TXN100105,541.62,18,Entertainment,Chennai,Mobile,10,0,0
+TXN100106,257.23,2,Grocery,Coimbatore,Mobile,3,0,0
+TXN100107,473.89,11,Restaurants,Bangalore,ATM,2,0,0
+TXN100108,1541.19,15,Electronics,Trichy,Mobile,11,0,0
+TXN100109,118.24,10,Grocery,Bangalore,POS Terminal,3,0,0
+TXN100110,1027.03,16,Restaurants,Kolkata,Desktop,8,3,1
+TXN100111,843.65,5,Electronics,Delhi,POS Terminal,2,1,0
+TXN100112,367.18,14,Entertainment,Mumbai,POS Terminal,12,0,0
+TXN100113,156.64,15,Online Services,Kolkata,POS Terminal,12,0,0
+TXN100114,714.89,15,Entertainment,Delhi,Mobile,9,0,0
+TXN100115,391.7,6,Electronics,Mumbai,Mobile,13,0,0
+TXN100116,839.39,7,Electronics,Kolkata,Desktop,7,0,0
+TXN100117,679.84,6,Electronics,Chennai,Mobile,3,0,0
+TXN100118,3300.33,11,Grocery,Kolkata,Mobile,3,0,0
+TXN100119,523.56,14,Online Services,Coimbatore,Mobile,4,0,0
+TXN100120,239.01,8,Restaurants,Delhi,Mobile,4,1,0
+TXN100121,795.74,9,Electronics,Pune,Mobile,5,1,0
+TXN100122,828.81,6,Jewelry,Bangalore,Mobile,4,0,0
+TXN100123,2589.42,5,Restaurants,Trichy,POS Terminal,9,0,0
+TXN100124,1533.2,15,Grocery,Madurai,Mobile,3,0,0
+TXN100125,950.39,19,Grocery,Bangalore,ATM,10,0,0
+TXN100126,2873.55,6,Fuel,Pune,ATM,6,1,1
+TXN100127,202.6,20,Entertainment,Pune,Mobile,11,0,0
+TXN100128,350.81,13,Electronics,Hyderabad,POS Terminal,8,0,0
+TXN100129,263.33,4,Online Services,Pune,Desktop,14,0,1
+TXN100130,450.42,8,Jewelry,Bangalore,Tablet,7,0,0
+TXN100131,167.89,0,Jewelry,Bangalore,Mobile,5,0,0
+TXN100132,1255.33,0,Electronics,Kolkata,Mobile,9,0,0
+TXN100133,532.6,8,Grocery,Mumbai,Mobile,10,1,0
+TXN100134,152.81,10,Online Services,Hyderabad,Desktop,7,0,0
+TXN100135,240.91,19,Travel,Bangalore,ATM,9,0,0
+TXN100136,910.06,3,Fuel,Delhi,Tablet,8,0,0
+TXN100137,1537.83,20,Entertainment,Delhi,POS Terminal,5,0,0
+TXN100138,4898.73,5,Grocery,Bangalore,ATM,5,0,0
+TXN100139,12257.12,3,Entertainment,Trichy,Tablet,14,0,1
+TXN100140,1006.68,16,Online Services,Chennai,Mobile,11,0,0
+TXN100141,247.27,18,Clothing,Chennai,POS Terminal,2,0,0
+TXN100142,78.88,14,Restaurants,Bangalore,Mobile,15,0,0
+TXN100143,869.32,2,Online Services,Mumbai,Mobile,11,0,1
+TXN100144,295.02,2,Restaurants,Kolkata,Desktop,1,1,1
+TXN100145,439.06,9,Clothing,Coimbatore,POS Terminal,11,1,0
+TXN100146,360.65,10,Jewelry,Delhi,Mobile,9,0,0
+TXN100147,577.79,23,Clothing,Mumbai,Desktop,14,0,0
+TXN100148,1931.36,6,Electronics,Trichy,Mobile,8,0,0
+TXN100149,778.25,4,Grocery,Madurai,Mobile,8,3,1
+TXN100150,567.57,22,Electronics,Madurai,Mobile,5,0,0
+TXN100151,236.12,3,Restaurants,Kolkata,POS Terminal,5,0,0
+TXN100152,124.63,0,Restaurants,Pune,POS Terminal,10,0,0
+TXN100153,408.99,10,Fuel,Kolkata,Mobile,13,1,0
+TXN100154,630.31,9,Restaurants,Hyderabad,Mobile,14,0,0
+TXN100155,3896.87,14,Entertainment,Bangalore,Mobile,12,0,0
+TXN100156,757.69,21,Online Services,Madurai,Mobile,10,0,0
+TXN100157,1777.1,22,Electronics,Delhi,Desktop,8,0,0
+TXN100158,403.71,6,Clothing,Trichy,Tablet,6,1,0
+TXN100159,203.38,23,Clothing,Coimbatore,Desktop,12,0,0
+TXN100160,253.38,15,Restaurants,Chennai,Mobile,5,0,0
+TXN100161,322.07,1,Grocery,Bangalore,Desktop,5,0,0
+TXN100162,5588.52,22,Entertainment,Coimbatore,Mobile,14,0,0
+TXN100163,292.54,3,Healthcare,Chennai,Mobile,9,0,0
+TXN100164,1538.39,14,Clothing,Madurai,POS Terminal,6,0,0
+TXN100165,269.64,18,Online Services,Kolkata,POS Terminal,13,2,1
+TXN100166,1688.46,5,Healthcare,Hyderabad,POS Terminal,15,0,0
+TXN100167,977.45,6,Travel,Kolkata,POS Terminal,5,0,0
+TXN100168,568.71,11,Fuel,Pune,Desktop,8,0,0
+TXN100169,638.57,21,Restaurants,Pune,POS Terminal,8,0,0
+TXN100170,345.58,5,Healthcare,Madurai,Mobile,11,0,0
+TXN100171,1039.06,15,Grocery,Kolkata,Mobile,15,0,0
+TXN100172,422.0,10,Restaurants,Pune,Mobile,9,0,0
+TXN100173,195.27,2,Online Services,Pune,Mobile,12,0,1
+TXN100174,185.32,17,Electronics,Madurai,Mobile,9,0,0
+TXN100175,790.44,19,Entertainment,Coimbatore,Mobile,14,0,0
+TXN100176,3226.3,13,Restaurants,Hyderabad,POS Terminal,7,0,0
+TXN100177,780.54,4,Healthcare,Pune,POS Terminal,6,0,0
+TXN100178,590.73,3,Online Services,Pune,Desktop,7,1,1
+TXN100179,885.21,10,Travel,Hyderabad,Mobile,15,0,0
+TXN100180,2455.29,12,Entertainment,Chennai,POS Terminal,10,0,0
+TXN100181,828.31,13,Travel,Bangalore,Mobile,3,0,0
+TXN100182,441.01,5,Fuel,Delhi,Mobile,1,0,0
+TXN100183,2010.8,12,Clothing,Hyderabad,Mobile,8,0,0
+TXN100184,1021.22,7,Jewelry,Madurai,Mobile,13,0,0
+TXN100185,3089.47,16,Grocery,Madurai,Mobile,8,0,0
+TXN100186,798.9,19,Electronics,Trichy,POS Terminal,9,0,0
+TXN100187,195.49,15,Clothing,Coimbatore,POS Terminal,12,0,0
+TXN100188,169.33,0,Fuel,Mumbai,Tablet,8,0,0
+TXN100189,3466.59,23,Restaurants,Coimbatore,Mobile,14,0,0
+TXN100190,3728.14,0,Grocery,Pune,POS Terminal,10,0,0
+TXN100191,555.84,23,Travel,Trichy,Tablet,11,0,0
+TXN100192,453.42,0,Online Services,Hyderabad,Mobile,12,0,1
+TXN100193,2868.21,12,Grocery,Bangalore,Desktop,10,0,0
+TXN100194,219.85,2,Restaurants,Kolkata,Desktop,1,0,0
+TXN100195,271.86,2,Online Services,Kolkata,Mobile,7,0,0
+TXN100196,1265.63,16,Grocery,Hyderabad,Mobile,3,1,0
+TXN100197,448.27,17,Clothing,Mumbai,Desktop,8,0,0
+TXN100198,661.74,2,Electronics,Mumbai,Mobile,3,0,0
+TXN100199,564.85,23,Online Services,Hyderabad,Mobile,8,1,0
+TXN100200,932.23,7,Clothing,Chennai,Mobile,6,0,0
+TXN100201,2717.54,7,Online Services,Bangalore,ATM,1,0,0
+TXN100202,728.21,7,Electronics,Coimbatore,Mobile,2,0,0
+TXN100203,1266.41,11,Fuel,Bangalore,Mobile,8,0,0
+TXN100204,85.61,4,Entertainment,Mumbai,Mobile,2,0,0
+TXN100205,633.51,10,Electronics,Coimbatore,POS Terminal,13,0,0
+TXN100206,286.22,5,Electronics,Coimbatore,Desktop,12,0,0
+TXN100207,196.6,1,Grocery,Kolkata,POS Terminal,11,0,0
+TXN100208,276.4,8,Healthcare,Madurai,Mobile,3,0,0
+TXN100209,476.22,16,Clothing,Chennai,Mobile,12,0,0
+TXN100210,1662.21,18,Fuel,Delhi,Desktop,10,0,0
+TXN100211,176.55,8,Clothing,Delhi,Mobile,6,0,0
+TXN100212,685.83,7,Fuel,Kolkata,POS Terminal,1,0,0
+TXN100213,409.87,18,Restaurants,Delhi,POS Terminal,8,1,0
+TXN100214,479.3,16,Restaurants,Pune,Desktop,12,0,0
+TXN100215,1813.04,19,Fuel,Hyderabad,ATM,1,0,0
+TXN100216,1139.24,21,Electronics,Coimbatore,Desktop,1,0,0
+TXN100217,2533.6,19,Online Services,Kolkata,Mobile,6,0,0
+TXN100218,569.92,22,Entertainment,Coimbatore,Desktop,8,0,0
+TXN100219,331.64,9,Travel,Coimbatore,Mobile,8,1,0
+TXN100220,531.73,9,Fuel,Kolkata,POS Terminal,7,0,0
+TXN100221,847.67,7,Grocery,Kolkata,Mobile,4,0,0
+TXN100222,793.6,5,Healthcare,Madurai,Mobile,1,2,0
+TXN100223,224.89,17,Online Services,Delhi,Desktop,1,0,0
+TXN100224,728.14,17,Online Services,Pune,Mobile,2,1,0
+TXN100225,835.67,19,Travel,Delhi,Mobile,11,0,0
+TXN100226,8245.92,4,Grocery,Trichy,Tablet,12,0,1
+TXN100227,4345.28,11,Electronics,Mumbai,Mobile,7,1,0
+TXN100228,283.37,5,Grocery,Chennai,Desktop,2,0,0
+TXN100229,499.01,21,Grocery,Kolkata,Mobile,7,0,0
+TXN100230,153.94,6,Grocery,Trichy,Mobile,15,0,0
+TXN100231,368.45,3,Healthcare,Pune,Mobile,4,0,0
+TXN100232,911.97,13,Grocery,Chennai,POS Terminal,8,0,0
+TXN100233,2221.31,21,Grocery,Bangalore,ATM,9,0,0
+TXN100234,320.83,21,Jewelry,Coimbatore,Mobile,5,0,0
+TXN100235,345.8,2,Fuel,Kolkata,ATM,7,0,0
+TXN100236,77.69,7,Entertainment,Madurai,Desktop,8,0,0
+TXN100237,565.29,3,Fuel,Delhi,Desktop,8,0,0
+TXN100238,229.89,7,Online Services,Trichy,POS Terminal,11,0,0
+TXN100239,391.73,12,Fuel,Bangalore,POS Terminal,9,0,0
+TXN100240,276.76,6,Restaurants,Pune,POS Terminal,1,0,0
+TXN100241,605.31,1,Clothing,Pune,Desktop,1,0,0
+TXN100242,114.69,12,Restaurants,Coimbatore,Desktop,7,0,0
+TXN100243,153.39,1,Travel,Madurai,Mobile,14,0,1
+TXN100244,5592.87,5,Restaurants,Bangalore,Mobile,1,0,0
+TXN100245,183.57,0,Grocery,Hyderabad,Tablet,2,0,0
+TXN100246,222.12,2,Entertainment,Hyderabad,Mobile,11,3,1
+TXN100247,4175.18,10,Electronics,Chennai,Mobile,7,1,0
+TXN100248,12149.79,20,Grocery,Delhi,Mobile,4,0,0
+TXN100249,206.11,18,Electronics,Coimbatore,Mobile,4,2,1
+TXN100250,460.24,2,Jewelry,Madurai,Desktop,10,1,1
+TXN100251,935.94,0,Travel,Kolkata,Desktop,8,0,0
+TXN100252,3746.95,8,Clothing,Mumbai,Mobile,10,0,0
+TXN100253,247.93,15,Jewelry,Madurai,Mobile,5,0,0
+TXN100254,520.46,17,Grocery,Pune,Mobile,8,0,0
+TXN100255,1447.13,19,Entertainment,Madurai,Mobile,13,0,0
+TXN100256,1027.38,8,Travel,Hyderabad,POS Terminal,5,0,0
+TXN100257,456.62,4,Electronics,Coimbatore,Desktop,6,0,0
+TXN100258,581.83,0,Clothing,Chennai,Desktop,3,2,1
+TXN100259,168.19,3,Online Services,Bangalore,Desktop,10,0,0
+TXN100260,524.18,1,Electronics,Hyderabad,ATM,1,0,0
+TXN100261,509.59,20,Fuel,Kolkata,POS Terminal,4,0,0
+TXN100262,838.97,6,Electronics,Madurai,Desktop,11,0,0
+TXN100263,381.71,19,Fuel,Kolkata,Desktop,1,0,0
+TXN100264,1065.86,13,Fuel,Mumbai,Mobile,15,0,0
+TXN100265,1831.18,12,Fuel,Trichy,POS Terminal,7,0,0
+TXN100266,776.99,10,Fuel,Delhi,Mobile,6,0,0
+TXN100267,945.54,19,Grocery,Hyderabad,Mobile,9,0,0
+TXN100268,701.45,1,Clothing,Madurai,ATM,10,0,0
+TXN100269,665.2,2,Clothing,Bangalore,POS Terminal,7,0,0
+TXN100270,323.26,10,Clothing,Madurai,Mobile,14,0,0
+TXN100271,912.78,9,Grocery,Mumbai,Mobile,15,0,0
+TXN100272,603.48,13,Restaurants,Hyderabad,Mobile,4,0,0
+TXN100273,5394.68,17,Restaurants,Bangalore,Desktop,11,0,0
+TXN100274,3207.85,14,Grocery,Coimbatore,Mobile,5,0,0
+TXN100275,978.33,6,Electronics,Madurai,POS Terminal,15,0,0
+TXN100276,310.11,7,Restaurants,Bangalore,POS Terminal,4,0,0
+TXN100277,218.68,18,Clothing,Bangalore,Desktop,5,0,0
+TXN100278,2188.87,4,Electronics,Madurai,Desktop,11,1,1
+TXN100279,865.02,12,Jewelry,Hyderabad,Mobile,12,0,0
+TXN100280,1075.07,12,Fuel,Coimbatore,Mobile,2,0,0
+TXN100281,116.21,18,Entertainment,Hyderabad,POS Terminal,9,0,0
+TXN100282,1681.49,17,Restaurants,Chennai,Mobile,6,0,0
+TXN100283,1047.77,11,Restaurants,Bangalore,Mobile,10,0,0
+TXN100284,219.11,7,Fuel,Delhi,Mobile,9,0,0
+TXN100285,415.08,8,Online Services,Kolkata,Mobile,15,0,0
+TXN100286,865.85,9,Restaurants,Mumbai,Mobile,15,0,0
+TXN100287,700.97,5,Restaurants,Delhi,POS Terminal,10,0,0
+TXN100288,496.62,15,Fuel,Trichy,POS Terminal,11,0,0
+TXN100289,599.75,5,Clothing,Madurai,Desktop,14,0,0
+TXN100290,516.99,15,Grocery,Mumbai,POS Terminal,3,0,0
+TXN100291,774.77,18,Restaurants,Kolkata,Mobile,11,0,0
+TXN100292,2897.18,23,Restaurants,Hyderabad,POS Terminal,12,0,0
+TXN100293,51.08,2,Online Services,Kolkata,Desktop,2,0,0
+TXN100294,524.87,18,Restaurants,Coimbatore,Mobile,14,1,0
+TXN100295,793.55,2,Restaurants,Chennai,POS Terminal,11,0,0
+TXN100296,894.26,8,Healthcare,Trichy,Mobile,6,0,0
+TXN100297,458.56,4,Restaurants,Hyderabad,Mobile,8,0,0
+TXN100298,114.81,3,Grocery,Mumbai,Mobile,8,0,0
+TXN100299,923.34,4,Electronics,Coimbatore,Mobile,14,0,1
+TXN100300,3741.91,1,Grocery,Delhi,Mobile,15,0,0
+TXN100301,143.47,19,Grocery,Delhi,Desktop,13,0,0
+TXN100302,1577.87,1,Restaurants,Madurai,POS Terminal,10,0,0
+TXN100303,478.89,9,Entertainment,Coimbatore,Mobile,2,0,0
+TXN100304,625.58,16,Clothing,Delhi,Desktop,14,0,0
+TXN100305,232.08,23,Grocery,Mumbai,Mobile,3,1,0
+TXN100306,476.06,20,Fuel,Chennai,POS Terminal,3,0,0
+TXN100307,2440.71,3,Grocery,Coimbatore,Mobile,2,0,0
+TXN100308,1191.13,23,Online Services,Bangalore,Mobile,15,0,0
+TXN100309,3760.52,15,Grocery,Hyderabad,Desktop,8,0,0
+TXN100310,2159.02,4,Fuel,Chennai,Tablet,4,0,0
+TXN100311,1031.83,10,Travel,Pune,POS Terminal,2,0,0
+TXN100312,3804.48,22,Fuel,Madurai,Desktop,7,0,0
+TXN100313,1031.73,9,Restaurants,Madurai,POS Terminal,11,0,0
+TXN100314,1522.32,4,Entertainment,Trichy,Mobile,15,0,0
+TXN100315,494.44,21,Electronics,Kolkata,Mobile,9,0,0
+TXN100316,710.91,22,Online Services,Coimbatore,Mobile,10,0,0
+TXN100317,331.15,23,Restaurants,Pune,Mobile,13,0,0
+TXN100318,1789.31,22,Entertainment,Bangalore,Mobile,14,0,0
+TXN100319,204.73,20,Jewelry,Kolkata,Desktop,5,0,0
+TXN100320,1454.4,10,Healthcare,Chennai,Mobile,15,1,0
+TXN100321,549.69,4,Electronics,Chennai,Desktop,8,0,0
+TXN100322,2145.76,14,Electronics,Kolkata,Desktop,14,0,0
+TXN100323,1409.33,5,Electronics,Kolkata,Tablet,2,0,0
+TXN100324,4107.81,11,Electronics,Hyderabad,Tablet,2,0,0
+TXN100325,1381.29,15,Fuel,Trichy,Mobile,14,0,0
+TXN100326,138.1,22,Healthcare,Pune,Mobile,11,1,1
+TXN100327,622.07,6,Healthcare,Madurai,Desktop,3,0,0
+TXN100328,206.02,6,Restaurants,Pune,Desktop,14,0,0
+TXN100329,396.12,17,Fuel,Kolkata,Mobile,2,0,0
+TXN100330,3014.62,0,Jewelry,Kolkata,Mobile,11,0,1
+TXN100331,1258.32,13,Online Services,Mumbai,Tablet,4,0,0
+TXN100332,330.65,17,Electronics,Mumbai,Desktop,2,0,0
+TXN100333,241.36,13,Restaurants,Hyderabad,Mobile,13,0,0
+TXN100334,687.31,9,Jewelry,Trichy,Mobile,13,0,0
+TXN100335,197.05,19,Travel,Madurai,POS Terminal,2,0,0
+TXN100336,339.97,8,Restaurants,Delhi,Mobile,2,0,0
+TXN100337,908.69,17,Healthcare,Kolkata,POS Terminal,10,0,0
+TXN100338,2111.83,11,Healthcare,Hyderabad,Mobile,1,0,0
+TXN100339,1222.63,0,Online Services,Delhi,Desktop,12,0,1
+TXN100340,67.27,12,Entertainment,Trichy,Mobile,14,0,0
+TXN100341,901.78,1,Electronics,Bangalore,Mobile,12,0,1
+TXN100342,714.82,22,Travel,Hyderabad,POS Terminal,4,0,0
+TXN100343,1006.15,14,Fuel,Kolkata,Desktop,3,0,0
+TXN100344,3348.31,8,Fuel,Madurai,ATM,11,0,0
+TXN100345,84.5,11,Restaurants,Coimbatore,Mobile,1,0,0
+TXN100346,368.3,14,Fuel,Madurai,POS Terminal,9,0,0
+TXN100347,1201.0,6,Restaurants,Chennai,POS Terminal,7,0,0
+TXN100348,136.78,6,Clothing,Hyderabad,Desktop,12,0,0
+TXN100349,2910.12,10,Travel,Mumbai,Mobile,4,1,0
+TXN100350,961.37,6,Travel,Kolkata,Tablet,12,0,1
+TXN100351,1550.89,18,Grocery,Pune,Desktop,11,0,0
+TXN100352,375.8,2,Grocery,Trichy,POS Terminal,4,0,0
+TXN100353,1500.82,19,Jewelry,Coimbatore,Mobile,6,0,0
+TXN100354,1936.18,8,Restaurants,Madurai,Mobile,1,3,1
+TXN100355,839.56,13,Electronics,Coimbatore,Mobile,7,0,0
+TXN100356,840.84,3,Entertainment,Kolkata,Tablet,4,0,0
+TXN100357,871.61,9,Fuel,Chennai,ATM,2,0,0
+TXN100358,280.52,18,Grocery,Trichy,Mobile,9,0,0
+TXN100359,573.91,6,Travel,Kolkata,POS Terminal,9,0,0
+TXN100360,571.05,3,Grocery,Pune,POS Terminal,2,0,0
+TXN100361,975.93,12,Clothing,Coimbatore,Mobile,3,0,0
+TXN100362,1807.72,3,Electronics,Madurai,Mobile,2,0,0
+TXN100363,230.78,7,Grocery,Hyderabad,Tablet,11,1,0
+TXN100364,586.98,10,Grocery,Hyderabad,Desktop,6,0,0
+TXN100365,2926.19,13,Fuel,Pune,Mobile,2,0,0
+TXN100366,316.21,15,Grocery,Bangalore,POS Terminal,3,0,0
+TXN100367,292.29,16,Jewelry,Trichy,Desktop,15,0,0
+TXN100368,814.28,20,Grocery,Bangalore,POS Terminal,4,1,0
+TXN100369,1547.48,1,Fuel,Hyderabad,POS Terminal,11,0,0
+TXN100370,672.79,8,Restaurants,Hyderabad,POS Terminal,8,0,0
+TXN100371,2512.32,0,Restaurants,Hyderabad,Desktop,3,1,1
+TXN100372,1566.81,0,Grocery,Pune,Mobile,5,0,0
+TXN100373,1543.52,5,Entertainment,Kolkata,Desktop,1,0,0
+TXN100374,1157.61,14,Online Services,Coimbatore,Mobile,12,0,0
+TXN100375,6820.26,21,Grocery,Madurai,Tablet,6,0,0
+TXN100376,541.77,18,Grocery,Mumbai,Mobile,8,0,0
+TXN100377,89.7,15,Online Services,Bangalore,Desktop,3,0,0
+TXN100378,3308.51,18,Fuel,Bangalore,Mobile,13,1,0
+TXN100379,420.86,4,Grocery,Chennai,Mobile,4,0,0
+TXN100380,740.91,20,Electronics,Coimbatore,Mobile,9,0,0
+TXN100381,2464.02,21,Clothing,Delhi,Desktop,14,0,0
+TXN100382,133.99,2,Clothing,Kolkata,POS Terminal,11,0,0
+TXN100383,190.25,11,Fuel,Delhi,Mobile,10,1,0
+TXN100384,134.12,19,Healthcare,Madurai,POS Terminal,14,0,0
+TXN100385,300.63,11,Restaurants,Chennai,POS Terminal,3,0,0
+TXN100386,1032.39,20,Travel,Chennai,Mobile,15,0,1
+TXN100387,1123.48,22,Restaurants,Madurai,Tablet,9,0,0
+TXN100388,876.8,11,Travel,Hyderabad,Mobile,7,1,0
+TXN100389,161.94,1,Electronics,Kolkata,Mobile,4,0,0
+TXN100390,66.02,8,Grocery,Kolkata,Desktop,12,0,0
+TXN100391,702.3,5,Travel,Trichy,Mobile,15,0,0
+TXN100392,414.98,11,Clothing,Delhi,POS Terminal,11,0,0
+TXN100393,1052.99,14,Grocery,Coimbatore,POS Terminal,1,0,0
+TXN100394,1342.05,11,Restaurants,Chennai,POS Terminal,8,0,0
+TXN100395,763.75,4,Fuel,Hyderabad,Desktop,11,0,1
+TXN100396,1422.45,7,Fuel,Trichy,Desktop,6,0,0
+TXN100397,836.49,16,Entertainment,Madurai,ATM,12,0,0
+TXN100398,1130.1,0,Entertainment,Hyderabad,Mobile,11,0,0
+TXN100399,328.76,5,Clothing,Coimbatore,Mobile,2,0,0
+TXN100400,555.79,21,Grocery,Hyderabad,Desktop,9,0,0
+TXN100401,809.79,2,Restaurants,Bangalore,Mobile,3,0,0
+TXN100402,1511.0,9,Fuel,Delhi,Mobile,8,0,0
+TXN100403,448.66,4,Electronics,Chennai,Mobile,6,0,0
+TXN100404,1120.09,2,Grocery,Trichy,Desktop,13,0,1
+TXN100405,509.87,10,Electronics,Hyderabad,Mobile,14,1,1
+TXN100406,591.38,12,Restaurants,Coimbatore,Mobile,7,0,0
+TXN100407,1524.65,4,Restaurants,Delhi,Mobile,9,0,0
+TXN100408,90.64,1,Grocery,Trichy,Mobile,10,2,1
+TXN100409,181.91,3,Jewelry,Hyderabad,POS Terminal,10,0,1
+TXN100410,151.08,15,Online Services,Pune,Mobile,10,0,0
+TXN100411,64.48,20,Electronics,Trichy,Tablet,12,0,0
+TXN100412,337.56,4,Online Services,Madurai,POS Terminal,15,0,1
+TXN100413,1407.31,7,Grocery,Kolkata,Mobile,13,0,0
+TXN100414,500.25,8,Online Services,Hyderabad,POS Terminal,3,0,0
+TXN100415,810.61,8,Healthcare,Chennai,Tablet,8,0,0
+TXN100416,1976.77,5,Grocery,Coimbatore,Desktop,7,0,0
+TXN100417,2509.12,1,Entertainment,Delhi,Mobile,8,0,0
+TXN100418,620.71,12,Healthcare,Kolkata,Mobile,8,2,1
+TXN100419,2574.95,8,Online Services,Madurai,ATM,11,0,0
+TXN100420,729.33,8,Healthcare,Bangalore,POS Terminal,7,0,0
+TXN100421,287.9,6,Fuel,Delhi,POS Terminal,4,1,0
+TXN100422,367.09,22,Grocery,Chennai,POS Terminal,7,0,0
+TXN100423,151.33,14,Jewelry,Coimbatore,Mobile,13,0,0
+TXN100424,273.65,10,Fuel,Delhi,POS Terminal,5,0,0
+TXN100425,464.97,4,Fuel,Chennai,Desktop,1,0,1
+TXN100426,1485.62,19,Restaurants,Delhi,POS Terminal,15,0,0
+TXN100427,3717.36,21,Fuel,Bangalore,Mobile,3,0,0
+TXN100428,166.97,0,Grocery,Pune,Mobile,10,0,0
+TXN100429,985.18,22,Clothing,Trichy,POS Terminal,13,0,0
+TXN100430,234.97,16,Grocery,Pune,POS Terminal,5,0,0
+TXN100431,1069.23,2,Clothing,Coimbatore,Desktop,6,0,0
+TXN100432,583.42,18,Jewelry,Trichy,Mobile,5,0,0
+TXN100433,106.6,2,Restaurants,Delhi,Mobile,3,0,0
+TXN100434,1682.94,1,Restaurants,Hyderabad,ATM,3,0,0
+TXN100435,363.22,2,Travel,Kolkata,Mobile,3,0,0
+TXN100436,389.98,11,Healthcare,Chennai,Mobile,7,0,0
+TXN100437,228.21,14,Clothing,Trichy,Desktop,8,0,0
+TXN100438,345.75,9,Travel,Hyderabad,Mobile,1,1,0
+TXN100439,1020.34,2,Grocery,Kolkata,Desktop,13,0,1
+TXN100440,550.46,4,Electronics,Bangalore,Mobile,11,0,1
+TXN100441,923.95,20,Restaurants,Delhi,POS Terminal,2,0,0
+TXN100442,955.2,23,Online Services,Pune,POS Terminal,13,0,0
+TXN100443,2491.55,18,Clothing,Kolkata,POS Terminal,1,0,0
+TXN100444,472.11,2,Electronics,Hyderabad,Desktop,9,1,1
+TXN100445,151.89,19,Jewelry,Mumbai,Mobile,7,1,0
+TXN100446,1933.76,16,Travel,Hyderabad,POS Terminal,8,0,0
+TXN100447,477.48,12,Jewelry,Mumbai,POS Terminal,15,0,0
+TXN100448,2027.57,3,Electronics,Hyderabad,Desktop,14,0,1
+TXN100449,975.92,23,Fuel,Hyderabad,Tablet,5,0,0
+TXN100450,583.39,10,Online Services,Bangalore,POS Terminal,9,0,0
+TXN100451,942.73,1,Electronics,Mumbai,Tablet,15,0,1
+TXN100452,4679.81,5,Clothing,Delhi,POS Terminal,11,0,0
+TXN100453,5308.05,9,Healthcare,Pune,Mobile,14,1,0
+TXN100454,712.93,1,Grocery,Mumbai,Desktop,7,0,0
+TXN100455,780.7,7,Grocery,Chennai,Desktop,5,0,0
+TXN100456,1951.28,11,Clothing,Hyderabad,Mobile,8,1,0
+TXN100457,285.53,22,Travel,Madurai,POS Terminal,13,0,0
+TXN100458,928.04,2,Grocery,Trichy,Desktop,14,0,1
+TXN100459,648.16,13,Restaurants,Trichy,Mobile,11,0,0
+TXN100460,910.42,21,Entertainment,Hyderabad,POS Terminal,11,0,0
+TXN100461,289.06,19,Electronics,Pune,POS Terminal,8,0,0
+TXN100462,135.7,22,Travel,Hyderabad,POS Terminal,5,0,0
+TXN100463,83.68,4,Jewelry,Bangalore,Mobile,7,0,0
+TXN100464,217.59,19,Restaurants,Trichy,POS Terminal,8,0,0
+TXN100465,420.45,23,Jewelry,Mumbai,Mobile,13,0,0
+TXN100466,496.12,7,Restaurants,Trichy,Desktop,9,0,0
+TXN100467,4615.76,11,Healthcare,Kolkata,Mobile,12,0,0
+TXN100468,2010.21,12,Clothing,Kolkata,Desktop,1,0,0
+TXN100469,254.15,11,Grocery,Pune,POS Terminal,12,0,0
+TXN100470,941.72,6,Online Services,Coimbatore,Desktop,8,0,0
+TXN100471,442.71,23,Restaurants,Chennai,Desktop,15,0,0
+TXN100472,500.51,22,Grocery,Coimbatore,POS Terminal,8,0,0
+TXN100473,800.57,9,Grocery,Delhi,Tablet,8,0,0
+TXN100474,1235.43,19,Clothing,Coimbatore,Mobile,2,0,0
+TXN100475,473.78,9,Grocery,Kolkata,ATM,13,0,0
+TXN100476,1927.25,19,Electronics,Chennai,POS Terminal,11,0,0
+TXN100477,212.31,14,Grocery,Trichy,ATM,13,0,1
+TXN100478,669.37,11,Restaurants,Coimbatore,ATM,2,0,0
+TXN100479,8934.48,3,Restaurants,Delhi,POS Terminal,4,0,0
+TXN100480,831.37,15,Restaurants,Mumbai,POS Terminal,14,0,0
+TXN100481,2788.38,7,Electronics,Madurai,Desktop,1,0,0
+TXN100482,728.89,5,Grocery,Mumbai,Mobile,8,0,0
+TXN100483,1188.89,4,Fuel,Mumbai,Desktop,7,0,0
+TXN100484,628.43,23,Travel,Hyderabad,POS Terminal,15,0,0
+TXN100485,560.93,2,Clothing,Hyderabad,Desktop,13,1,1
+TXN100486,305.06,19,Grocery,Chennai,POS Terminal,14,0,0
+TXN100487,1022.8,20,Grocery,Coimbatore,Mobile,5,1,0
+TXN100488,283.85,0,Electronics,Hyderabad,Mobile,9,0,0
+TXN100489,1294.12,14,Restaurants,Chennai,Desktop,11,0,0
+TXN100490,1969.01,13,Restaurants,Bangalore,Mobile,15,0,0
+TXN100491,959.61,8,Entertainment,Chennai,Mobile,1,0,0
+TXN100492,499.57,16,Travel,Delhi,Mobile,15,0,0
+TXN100493,1047.29,9,Fuel,Chennai,POS Terminal,6,0,0
+TXN100494,488.49,10,Fuel,Trichy,Desktop,2,0,0
+TXN100495,1695.18,10,Grocery,Mumbai,Mobile,10,0,0
+TXN100496,106.55,19,Restaurants,Coimbatore,Mobile,12,1,0
+TXN100497,475.51,15,Travel,Madurai,Desktop,2,0,0
+TXN100498,90.85,9,Restaurants,Madurai,Mobile,1,0,0
+TXN100499,149.15,22,Grocery,Coimbatore,POS Terminal,14,0,0
+TXN100500,2601.55,19,Entertainment,Delhi,POS Terminal,15,0,0
+TXN100501,1628.13,22,Online Services,Mumbai,Mobile,3,1,0
+TXN100502,323.93,17,Grocery,Coimbatore,Desktop,14,0,0
+TXN100503,148.04,9,Fuel,Mumbai,Mobile,14,1,0
+TXN100504,50.0,18,Entertainment,Delhi,Mobile,15,0,0
+TXN100505,386.26,7,Electronics,Hyderabad,POS Terminal,4,0,0
+TXN100506,7483.19,6,Entertainment,Hyderabad,Desktop,9,0,1
+TXN100507,1027.5,10,Fuel,Pune,POS Terminal,15,0,0
+TXN100508,380.1,23,Online Services,Bangalore,Mobile,14,0,0
+TXN100509,1059.0,13,Healthcare,Madurai,Mobile,10,0,0
+TXN100510,139.64,9,Grocery,Hyderabad,Desktop,3,3,1
+TXN100511,494.07,11,Restaurants,Kolkata,Desktop,2,0,0
+TXN100512,734.71,6,Fuel,Delhi,ATM,4,0,0
+TXN100513,610.27,15,Grocery,Trichy,Mobile,1,0,0
+TXN100514,1466.75,8,Travel,Bangalore,POS Terminal,3,2,1
+TXN100515,938.84,13,Healthcare,Delhi,POS Terminal,2,0,0
+TXN100516,1297.67,8,Grocery,Coimbatore,Desktop,12,0,0
+TXN100517,334.16,7,Restaurants,Pune,Mobile,9,0,0
+TXN100518,1632.41,23,Jewelry,Kolkata,Desktop,8,0,0
+TXN100519,3391.19,8,Travel,Kolkata,Mobile,13,0,1
+TXN100520,252.11,1,Restaurants,Trichy,POS Terminal,7,0,0
+TXN100521,273.77,9,Healthcare,Hyderabad,Desktop,7,0,0
+TXN100522,2529.52,12,Restaurants,Hyderabad,POS Terminal,4,0,0
+TXN100523,549.31,2,Grocery,Mumbai,Desktop,7,0,0
+TXN100524,2707.61,7,Grocery,Kolkata,Desktop,3,0,0
+TXN100525,427.29,3,Online Services,Madurai,POS Terminal,9,0,0
+TXN100526,2849.92,12,Electronics,Hyderabad,Desktop,15,0,0
+TXN100527,758.61,17,Restaurants,Mumbai,POS Terminal,8,0,0
+TXN100528,861.12,23,Grocery,Delhi,Mobile,5,0,0
+TXN100529,3180.26,9,Restaurants,Delhi,ATM,11,1,0
+TXN100530,463.23,20,Online Services,Madurai,POS Terminal,13,0,0
+TXN100531,259.53,5,Restaurants,Pune,POS Terminal,8,0,0
+TXN100532,424.72,18,Healthcare,Trichy,Desktop,4,0,0
+TXN100533,1045.59,13,Electronics,Bangalore,POS Terminal,11,0,0
+TXN100534,138.97,18,Restaurants,Mumbai,Mobile,3,0,0
+TXN100535,1258.24,18,Jewelry,Trichy,POS Terminal,15,0,0
+TXN100536,388.09,12,Restaurants,Bangalore,Mobile,5,0,0
+TXN100537,2096.06,6,Electronics,Hyderabad,Mobile,6,0,0
+TXN100538,60.69,12,Jewelry,Mumbai,Mobile,11,0,0
+TXN100539,302.91,19,Restaurants,Chennai,Mobile,1,2,0
+TXN100540,123.17,23,Fuel,Coimbatore,Mobile,4,0,0
+TXN100541,291.13,22,Healthcare,Coimbatore,POS Terminal,2,0,0
+TXN100542,852.07,4,Grocery,Mumbai,Mobile,6,0,0
+TXN100543,556.0,14,Travel,Madurai,POS Terminal,9,0,0
+TXN100544,516.27,2,Grocery,Hyderabad,Mobile,3,0,0
+TXN100545,567.26,16,Restaurants,Delhi,POS Terminal,6,0,0
+TXN100546,815.16,23,Electronics,Delhi,POS Terminal,12,0,1
+TXN100547,242.61,1,Clothing,Chennai,Mobile,15,0,0
+TXN100548,1348.64,15,Grocery,Pune,POS Terminal,1,0,0
+TXN100549,1290.35,22,Clothing,Chennai,POS Terminal,10,1,0
+TXN100550,977.54,20,Electronics,Trichy,POS Terminal,1,0,0
+TXN100551,1160.42,9,Travel,Trichy,Mobile,8,0,0
+TXN100552,894.64,2,Travel,Coimbatore,Desktop,14,0,1
+TXN100553,5090.2,22,Clothing,Kolkata,POS Terminal,12,1,0
+TXN100554,609.66,22,Restaurants,Coimbatore,Mobile,4,0,0
+TXN100555,489.27,13,Travel,Mumbai,POS Terminal,4,0,0
+TXN100556,313.08,23,Jewelry,Bangalore,Mobile,12,0,0
+TXN100557,236.92,0,Fuel,Trichy,POS Terminal,13,0,0
+TXN100558,191.62,14,Electronics,Bangalore,Mobile,5,0,0
+TXN100559,273.47,0,Online Services,Trichy,Mobile,1,3,1
+TXN100560,619.75,22,Travel,Bangalore,ATM,7,0,0
+TXN100561,929.17,16,Grocery,Hyderabad,POS Terminal,10,0,0
+TXN100562,700.04,21,Restaurants,Hyderabad,POS Terminal,7,0,0
+TXN100563,309.35,13,Grocery,Coimbatore,ATM,15,0,0
+TXN100564,1636.29,1,Electronics,Delhi,Mobile,13,1,1
+TXN100565,1393.28,0,Clothing,Hyderabad,Mobile,12,0,0
+TXN100566,567.0,8,Grocery,Coimbatore,Mobile,1,0,0
+TXN100567,346.22,17,Entertainment,Bangalore,Desktop,13,0,0
+TXN100568,1151.05,3,Online Services,Chennai,Mobile,12,0,1
+TXN100569,802.69,20,Fuel,Pune,POS Terminal,6,0,0
+TXN100570,156.31,5,Clothing,Delhi,Mobile,9,0,0
+TXN100571,621.43,11,Clothing,Coimbatore,Mobile,13,0,0
+TXN100572,864.4,4,Healthcare,Mumbai,Mobile,14,0,0
+TXN100573,270.51,11,Travel,Mumbai,Mobile,9,0,0
+TXN100574,804.2,10,Grocery,Mumbai,Mobile,1,0,0
+TXN100575,155.27,0,Restaurants,Trichy,Tablet,10,0,0
+TXN100576,2530.54,13,Fuel,Kolkata,Mobile,11,0,0
+TXN100577,2316.82,18,Grocery,Pune,Desktop,1,0,0
+TXN100578,516.71,22,Fuel,Pune,POS Terminal,13,1,0
+TXN100579,956.67,7,Grocery,Pune,Desktop,4,0,0
+TXN100580,59.74,21,Online Services,Pune,Tablet,14,1,1
+TXN100581,209.28,21,Electronics,Delhi,Mobile,9,0,0
+TXN100582,495.82,23,Grocery,Trichy,Mobile,5,0,0
+TXN100583,227.66,8,Grocery,Bangalore,Mobile,1,0,0
+TXN100584,1358.85,20,Electronics,Coimbatore,ATM,1,0,1
+TXN100585,4901.5,13,Electronics,Coimbatore,Desktop,12,0,0
+TXN100586,205.08,1,Grocery,Kolkata,Mobile,6,0,0
+TXN100587,287.88,6,Electronics,Kolkata,Desktop,13,0,0
+TXN100588,841.72,16,Grocery,Hyderabad,POS Terminal,4,0,0
+TXN100589,3331.29,3,Travel,Delhi,Tablet,14,0,1
+TXN100590,195.9,10,Restaurants,Chennai,Desktop,15,0,0
+TXN100591,853.24,18,Travel,Coimbatore,POS Terminal,2,0,0
+TXN100592,4110.5,3,Travel,Kolkata,Tablet,10,0,1
+TXN100593,127.52,11,Grocery,Bangalore,Desktop,15,1,0
+TXN100594,184.74,5,Grocery,Hyderabad,Mobile,5,2,0
+TXN100595,435.46,12,Electronics,Bangalore,Mobile,2,0,0
+TXN100596,395.21,5,Entertainment,Coimbatore,ATM,14,0,0
+TXN100597,1499.07,23,Healthcare,Kolkata,Desktop,8,0,0
+TXN100598,846.97,1,Online Services,Delhi,Mobile,1,0,0
+TXN100599,112.73,23,Restaurants,Mumbai,Desktop,13,1,0
+TXN100600,1113.66,19,Fuel,Madurai,Mobile,11,0,0
+TXN100601,373.33,20,Travel,Mumbai,POS Terminal,2,0,0
+TXN100602,2379.03,20,Entertainment,Pune,Mobile,4,0,0
+TXN100603,355.1,4,Entertainment,Mumbai,POS Terminal,1,0,0
+TXN100604,351.91,22,Jewelry,Bangalore,Desktop,15,0,0
+TXN100605,1142.68,14,Online Services,Coimbatore,Mobile,1,0,0
+TXN100606,1426.42,23,Restaurants,Hyderabad,Mobile,12,0,0
+TXN100607,1041.17,21,Entertainment,Madurai,POS Terminal,8,0,0
+TXN100608,123.27,13,Entertainment,Mumbai,Mobile,9,1,0
+TXN100609,1139.15,8,Travel,Trichy,Mobile,13,0,0
+TXN100610,236.44,2,Online Services,Chennai,POS Terminal,14,0,1
+TXN100611,841.58,2,Grocery,Delhi,Mobile,2,1,0
+TXN100612,160.17,9,Healthcare,Madurai,Mobile,1,0,0
+TXN100613,1039.32,19,Entertainment,Bangalore,Mobile,2,1,0
+TXN100614,296.9,12,Grocery,Hyderabad,POS Terminal,11,0,0
+TXN100615,184.45,11,Clothing,Bangalore,Mobile,9,0,0
+TXN100616,1358.07,5,Grocery,Delhi,Mobile,2,0,0
+TXN100617,846.95,13,Entertainment,Coimbatore,Mobile,4,0,0
+TXN100618,359.97,15,Entertainment,Delhi,Mobile,9,0,0
+TXN100619,2838.92,23,Fuel,Coimbatore,Mobile,11,0,0
+TXN100620,428.1,17,Jewelry,Madurai,Mobile,6,0,0
+TXN100621,686.84,14,Grocery,Hyderabad,Mobile,15,0,0
+TXN100622,870.37,21,Electronics,Kolkata,Mobile,15,0,0
+TXN100623,357.93,10,Restaurants,Coimbatore,POS Terminal,12,0,1
+TXN100624,1065.43,22,Grocery,Hyderabad,Mobile,7,0,0
+TXN100625,390.16,8,Restaurants,Trichy,Mobile,14,3,1
+TXN100626,440.7,3,Electronics,Trichy,POS Terminal,11,1,1
+TXN100627,2598.38,10,Restaurants,Delhi,POS Terminal,8,0,0
+TXN100628,234.96,3,Restaurants,Delhi,Tablet,7,0,0
+TXN100629,59.57,2,Online Services,Madurai,Mobile,13,0,1
+TXN100630,3330.7,21,Electronics,Mumbai,Mobile,9,0,0
+TXN100631,8512.81,19,Online Services,Madurai,Mobile,3,0,0
+TXN100632,443.51,5,Restaurants,Coimbatore,Mobile,15,0,0
+TXN100633,95.89,20,Travel,Bangalore,Mobile,2,0,0
+TXN100634,487.61,1,Restaurants,Madurai,Desktop,11,0,1
+TXN100635,499.58,6,Restaurants,Kolkata,Mobile,10,0,0
+TXN100636,550.09,16,Electronics,Bangalore,Desktop,9,0,0
+TXN100637,218.46,7,Restaurants,Madurai,Mobile,1,0,0
+TXN100638,1187.45,17,Grocery,Hyderabad,Mobile,8,0,0
+TXN100639,1123.84,20,Travel,Delhi,POS Terminal,14,0,0
+TXN100640,149.25,1,Fuel,Coimbatore,POS Terminal,4,0,0
+TXN100641,1338.36,0,Restaurants,Pune,Mobile,11,0,0
+TXN100642,5180.65,22,Jewelry,Bangalore,Desktop,13,0,0
+TXN100643,789.94,12,Electronics,Mumbai,Mobile,15,0,0
+TXN100644,474.7,12,Healthcare,Pune,Mobile,8,0,0
+TXN100645,577.09,11,Entertainment,Bangalore,POS Terminal,5,0,0
+TXN100646,1230.6,10,Healthcare,Chennai,Mobile,11,0,0
+TXN100647,117.84,16,Jewelry,Delhi,Mobile,8,0,0
+TXN100648,783.99,13,Grocery,Trichy,Desktop,10,0,0
+TXN100649,450.13,3,Restaurants,Bangalore,Mobile,12,0,0
+TXN100650,4220.99,15,Grocery,Pune,Mobile,11,1,0
+TXN100651,558.82,16,Entertainment,Bangalore,Mobile,4,0,0
+TXN100652,3525.89,2,Fuel,Mumbai,ATM,12,0,0
+TXN100653,220.58,9,Electronics,Hyderabad,Desktop,9,1,0
+TXN100654,1196.62,18,Online Services,Coimbatore,Mobile,14,0,0
+TXN100655,915.44,14,Grocery,Madurai,Mobile,10,0,0
+TXN100656,278.93,3,Fuel,Hyderabad,Desktop,14,0,1
+TXN100657,794.25,0,Clothing,Chennai,Mobile,15,0,0
+TXN100658,2236.17,13,Grocery,Bangalore,Desktop,15,0,0
+TXN100659,481.16,11,Fuel,Bangalore,POS Terminal,12,1,1
+TXN100660,122.49,23,Entertainment,Kolkata,Mobile,9,2,0
+TXN100661,653.56,12,Grocery,Chennai,Mobile,2,0,0
+TXN100662,269.77,22,Restaurants,Kolkata,Mobile,6,0,0
+TXN100663,472.32,5,Electronics,Bangalore,Mobile,8,0,0
+TXN100664,613.03,10,Clothing,Mumbai,Mobile,12,0,0
+TXN100665,120.83,3,Grocery,Hyderabad,POS Terminal,9,0,0
+TXN100666,132.2,13,Online Services,Coimbatore,Mobile,7,0,0
+TXN100667,1077.14,4,Online Services,Pune,Desktop,3,0,0
+TXN100668,394.37,11,Grocery,Coimbatore,Tablet,11,0,0
+TXN100669,51.18,8,Travel,Trichy,Mobile,7,0,0
+TXN100670,1458.03,4,Fuel,Delhi,Mobile,1,0,0
+TXN100671,873.38,2,Clothing,Mumbai,Mobile,5,0,0
+TXN100672,325.75,12,Restaurants,Kolkata,Tablet,14,1,0
+TXN100673,178.25,22,Grocery,Bangalore,Mobile,2,0,0
+TXN100674,1534.27,4,Grocery,Trichy,POS Terminal,7,0,0
+TXN100675,943.27,9,Healthcare,Trichy,POS Terminal,8,0,0
+TXN100676,7205.52,5,Restaurants,Bangalore,POS Terminal,2,0,0
+TXN100677,1012.51,19,Online Services,Coimbatore,ATM,3,2,1
+TXN100678,980.15,9,Restaurants,Pune,POS Terminal,15,1,0
+TXN100679,562.88,23,Online Services,Chennai,POS Terminal,9,0,0
+TXN100680,1505.34,5,Grocery,Kolkata,POS Terminal,4,0,0
+TXN100681,1242.75,1,Grocery,Coimbatore,POS Terminal,3,0,0
+TXN100682,2325.58,13,Online Services,Chennai,POS Terminal,7,0,0
+TXN100683,394.92,15,Online Services,Coimbatore,POS Terminal,11,0,0
+TXN100684,430.35,23,Travel,Chennai,Desktop,11,0,0
+TXN100685,411.95,20,Travel,Bangalore,Desktop,3,0,0
+TXN100686,1466.75,21,Restaurants,Madurai,Desktop,11,0,0
+TXN100687,2976.12,15,Restaurants,Hyderabad,POS Terminal,14,0,0
+TXN100688,420.38,8,Grocery,Hyderabad,Mobile,4,0,0
+TXN100689,434.95,10,Online Services,Trichy,POS Terminal,1,0,0
+TXN100690,910.58,3,Electronics,Chennai,POS Terminal,15,0,1
+TXN100691,520.21,10,Clothing,Chennai,ATM,8,0,0
+TXN100692,1723.4,8,Grocery,Chennai,Mobile,12,0,0
+TXN100693,69.98,0,Grocery,Trichy,POS Terminal,5,0,0
+TXN100694,290.99,4,Clothing,Madurai,POS Terminal,5,0,0
+TXN100695,304.17,12,Travel,Hyderabad,POS Terminal,4,0,0
+TXN100696,65.34,8,Clothing,Madurai,POS Terminal,4,1,0
+TXN100697,253.75,23,Grocery,Madurai,Desktop,8,0,0
+TXN100698,266.36,11,Online Services,Bangalore,Desktop,2,0,0
+TXN100699,543.97,23,Clothing,Hyderabad,Mobile,13,0,0
+TXN100700,2024.27,15,Online Services,Madurai,ATM,8,0,0
+TXN100701,520.58,0,Grocery,Coimbatore,Mobile,14,0,0
+TXN100702,237.27,4,Travel,Bangalore,POS Terminal,8,0,0
+TXN100703,628.32,16,Travel,Trichy,POS Terminal,5,0,0
+TXN100704,1899.17,13,Fuel,Bangalore,Mobile,8,0,0
+TXN100705,250.65,7,Electronics,Pune,Mobile,3,0,0
+TXN100706,267.58,12,Grocery,Madurai,Mobile,13,0,0
+TXN100707,1162.76,21,Travel,Chennai,POS Terminal,11,0,1
+TXN100708,532.97,9,Electronics,Delhi,Desktop,3,0,0
+TXN100709,1270.91,1,Restaurants,Chennai,Mobile,9,0,0
+TXN100710,656.13,7,Grocery,Chennai,POS Terminal,9,0,0
+TXN100711,1341.66,22,Electronics,Chennai,Mobile,4,0,0
+TXN100712,236.26,18,Fuel,Kolkata,POS Terminal,2,0,0
+TXN100713,657.15,20,Restaurants,Pune,Mobile,12,0,0
+TXN100714,538.78,21,Travel,Hyderabad,Mobile,4,0,0
+TXN100715,197.18,2,Fuel,Mumbai,Mobile,8,0,0
+TXN100716,139.28,6,Entertainment,Mumbai,Desktop,4,0,0
+TXN100717,1320.48,1,Travel,Mumbai,Desktop,10,0,0
+TXN100718,468.27,0,Fuel,Hyderabad,POS Terminal,1,0,0
+TXN100719,239.3,20,Healthcare,Pune,Desktop,6,0,0
+TXN100720,604.15,22,Restaurants,Delhi,Mobile,9,1,0
+TXN100721,2054.97,3,Online Services,Trichy,Mobile,7,0,0
+TXN100722,67.98,17,Entertainment,Madurai,Mobile,10,0,0
+TXN100723,148.91,12,Grocery,Pune,POS Terminal,3,0,0
+TXN100724,264.31,1,Restaurants,Bangalore,Mobile,7,0,0
+TXN100725,2867.45,21,Clothing,Coimbatore,ATM,12,0,0
+TXN100726,882.35,20,Healthcare,Kolkata,Mobile,6,0,0
+TXN100727,1432.7,13,Restaurants,Mumbai,Mobile,3,0,0
+TXN100728,212.69,16,Grocery,Hyderabad,Mobile,13,1,0
+TXN100729,217.12,9,Fuel,Bangalore,Mobile,12,0,0
+TXN100730,1040.87,19,Grocery,Chennai,POS Terminal,11,0,0
+TXN100731,705.05,10,Entertainment,Madurai,Desktop,12,0,0
+TXN100732,1151.41,23,Restaurants,Bangalore,Mobile,12,1,0
+TXN100733,551.33,1,Clothing,Pune,Tablet,12,1,1
+TXN100734,878.44,4,Online Services,Madurai,Desktop,8,0,1
+TXN100735,779.08,23,Fuel,Chennai,POS Terminal,1,2,0
+TXN100736,1447.75,6,Fuel,Bangalore,ATM,9,1,0
+TXN100737,1490.71,7,Entertainment,Pune,Tablet,5,0,0
+TXN100738,131.65,18,Jewelry,Bangalore,POS Terminal,12,1,1
+TXN100739,70.3,4,Online Services,Madurai,POS Terminal,8,0,1
+TXN100740,1811.2,12,Grocery,Mumbai,Desktop,14,0,0
+TXN100741,2181.41,6,Fuel,Mumbai,POS Terminal,9,0,0
+TXN100742,239.7,4,Electronics,Coimbatore,Mobile,9,0,0
+TXN100743,103.56,23,Online Services,Pune,POS Terminal,14,0,0
+TXN100744,734.39,4,Fuel,Hyderabad,ATM,8,0,0
+TXN100745,1687.22,2,Restaurants,Trichy,Mobile,6,2,1
+TXN100746,4014.2,16,Grocery,Bangalore,POS Terminal,6,0,0
+TXN100747,1114.65,20,Travel,Pune,POS Terminal,14,2,1
+TXN100748,458.65,3,Clothing,Madurai,Mobile,12,0,0
+TXN100749,272.29,16,Electronics,Hyderabad,Desktop,3,0,0
+TXN100750,672.8,12,Grocery,Mumbai,POS Terminal,8,0,0
+TXN100751,493.11,19,Online Services,Delhi,ATM,6,0,0
+TXN100752,241.03,3,Entertainment,Kolkata,Mobile,10,0,0
+TXN100753,5160.33,23,Grocery,Chennai,Mobile,1,0,0
+TXN100754,3964.63,14,Electronics,Hyderabad,Tablet,11,0,0
+TXN100755,2071.54,20,Healthcare,Hyderabad,Mobile,12,0,0
+TXN100756,264.85,8,Clothing,Chennai,Mobile,4,0,0
+TXN100757,1564.03,22,Fuel,Mumbai,Mobile,3,1,0
+TXN100758,1260.96,15,Travel,Chennai,Mobile,10,0,0
+TXN100759,1035.4,3,Electronics,Bangalore,Desktop,4,0,0
+TXN100760,2320.8,22,Grocery,Madurai,Tablet,15,0,0
+TXN100761,1255.6,19,Clothing,Chennai,Desktop,12,3,1
+TXN100762,1394.11,7,Grocery,Kolkata,POS Terminal,15,0,0
+TXN100763,1257.53,13,Grocery,Coimbatore,Mobile,9,0,0
+TXN100764,935.23,9,Clothing,Coimbatore,Mobile,15,0,0
+TXN100765,111.76,13,Online Services,Kolkata,Mobile,1,0,0
+TXN100766,723.15,23,Entertainment,Kolkata,Mobile,5,0,0
+TXN100767,381.38,21,Restaurants,Trichy,Mobile,1,0,0
+TXN100768,184.96,5,Restaurants,Coimbatore,Mobile,11,0,0
+TXN100769,3575.34,23,Restaurants,Delhi,Mobile,8,0,0
+TXN100770,3748.07,10,Travel,Delhi,Mobile,5,0,0
+TXN100771,2589.5,16,Restaurants,Pune,Tablet,5,3,1
+TXN100772,858.52,18,Restaurants,Hyderabad,Desktop,10,0,0
+TXN100773,2567.34,11,Fuel,Trichy,POS Terminal,3,0,0
+TXN100774,673.21,10,Online Services,Kolkata,POS Terminal,8,0,0
+TXN100775,814.68,10,Healthcare,Chennai,Desktop,10,0,0
+TXN100776,222.86,20,Grocery,Chennai,Mobile,4,0,0
+TXN100777,989.29,9,Restaurants,Mumbai,Desktop,4,0,0
+TXN100778,706.54,6,Grocery,Mumbai,Mobile,6,0,0
+TXN100779,180.79,8,Travel,Trichy,Mobile,9,0,0
+TXN100780,631.95,4,Electronics,Chennai,Mobile,4,0,0
+TXN100781,614.17,9,Grocery,Hyderabad,Mobile,6,0,0
+TXN100782,4014.07,2,Entertainment,Coimbatore,Mobile,9,1,0
+TXN100783,1626.54,2,Restaurants,Mumbai,Tablet,3,0,0
+TXN100784,672.8,17,Online Services,Bangalore,POS Terminal,9,0,0
+TXN100785,853.02,1,Grocery,Hyderabad,POS Terminal,3,0,0
+TXN100786,695.21,13,Grocery,Bangalore,Desktop,3,0,0
+TXN100787,542.99,18,Restaurants,Madurai,Desktop,4,1,0
+TXN100788,225.33,17,Grocery,Madurai,Mobile,5,0,0
+TXN100789,571.89,10,Electronics,Mumbai,POS Terminal,1,0,0
+TXN100790,315.42,4,Healthcare,Hyderabad,Desktop,15,0,1
+TXN100791,190.51,22,Electronics,Hyderabad,Mobile,5,0,0
+TXN100792,1109.01,20,Grocery,Hyderabad,Mobile,13,1,0
+TXN100793,983.64,14,Fuel,Coimbatore,POS Terminal,14,0,0
+TXN100794,111.42,2,Restaurants,Pune,Desktop,13,0,0
+TXN100795,588.35,0,Fuel,Hyderabad,Desktop,13,0,0
+TXN100796,1800.29,7,Travel,Delhi,Desktop,2,0,0
+TXN100797,1918.36,3,Jewelry,Kolkata,Mobile,6,0,0
+TXN100798,1855.37,20,Grocery,Pune,Desktop,12,0,0
+TXN100799,691.53,4,Restaurants,Mumbai,Mobile,9,0,0
+TXN100800,285.7,6,Clothing,Delhi,Mobile,1,0,0
+TXN100801,225.05,23,Online Services,Bangalore,Tablet,9,0,0
+TXN100802,938.8,19,Travel,Delhi,Mobile,13,0,0
+TXN100803,971.93,5,Fuel,Madurai,POS Terminal,13,0,0
+TXN100804,2409.88,9,Grocery,Delhi,Mobile,6,0,0
+TXN100805,1998.16,12,Grocery,Trichy,Tablet,4,0,0
+TXN100806,582.76,15,Grocery,Pune,Desktop,5,0,0
+TXN100807,191.67,22,Clothing,Coimbatore,Tablet,5,1,0
+TXN100808,483.42,20,Electronics,Mumbai,Desktop,6,0,0
+TXN100809,826.53,23,Clothing,Trichy,ATM,5,0,0
+TXN100810,543.44,0,Grocery,Chennai,Desktop,7,0,0
+TXN100811,373.2,5,Online Services,Pune,POS Terminal,1,0,0
+TXN100812,856.53,13,Jewelry,Kolkata,POS Terminal,5,0,0
+TXN100813,401.84,1,Grocery,Coimbatore,Mobile,5,0,0
+TXN100814,354.93,8,Grocery,Chennai,Mobile,3,0,0
+TXN100815,908.19,3,Grocery,Kolkata,Mobile,14,1,1
+TXN100816,444.97,22,Jewelry,Pune,Mobile,11,0,0
+TXN100817,849.04,1,Electronics,Chennai,Mobile,14,0,1
+TXN100818,874.11,3,Fuel,Mumbai,Mobile,9,0,0
+TXN100819,212.85,4,Restaurants,Coimbatore,Desktop,2,1,0
+TXN100820,411.07,3,Entertainment,Delhi,Mobile,14,1,1
+TXN100821,2801.13,13,Restaurants,Bangalore,POS Terminal,7,0,0
+TXN100822,208.08,8,Restaurants,Chennai,Mobile,11,0,0
+TXN100823,80.11,21,Healthcare,Madurai,POS Terminal,6,0,0
+TXN100824,103.35,6,Grocery,Hyderabad,Mobile,8,0,0
+TXN100825,684.79,12,Jewelry,Delhi,Desktop,8,0,0
+TXN100826,686.03,15,Grocery,Trichy,Mobile,5,0,0
+TXN100827,591.34,15,Restaurants,Pune,Tablet,9,0,0
+TXN100828,2239.91,19,Online Services,Mumbai,Mobile,12,1,1
+TXN100829,50.0,4,Clothing,Kolkata,POS Terminal,1,1,0
+TXN100830,988.25,12,Clothing,Pune,Mobile,2,2,0
+TXN100831,3169.85,19,Electronics,Chennai,Desktop,13,0,0
+TXN100832,215.34,20,Restaurants,Trichy,Mobile,9,0,0
+TXN100833,454.95,14,Travel,Delhi,Desktop,15,0,0
+TXN100834,313.28,15,Restaurants,Chennai,Desktop,10,0,0
+TXN100835,271.96,20,Restaurants,Chennai,Mobile,10,0,0
+TXN100836,479.98,14,Travel,Bangalore,Mobile,14,3,1
+TXN100837,2772.45,22,Travel,Pune,Mobile,10,0,0
+TXN100838,4177.16,3,Electronics,Delhi,Mobile,5,0,0
+TXN100839,475.35,8,Travel,Hyderabad,ATM,8,0,0
+TXN100840,4469.63,2,Grocery,Chennai,Mobile,4,0,0
+TXN100841,689.23,2,Online Services,Madurai,Mobile,6,0,0
+TXN100842,3841.78,11,Fuel,Mumbai,ATM,11,0,0
+TXN100843,605.89,5,Grocery,Chennai,Mobile,3,0,0
+TXN100844,758.28,9,Clothing,Hyderabad,Mobile,11,0,0
+TXN100845,958.6,10,Jewelry,Trichy,POS Terminal,9,0,0
+TXN100846,15976.17,14,Electronics,Madurai,POS Terminal,5,0,0
+TXN100847,1558.2,22,Grocery,Coimbatore,POS Terminal,1,0,0
+TXN100848,327.91,20,Grocery,Mumbai,Desktop,11,0,0
+TXN100849,1752.85,9,Grocery,Pune,ATM,13,0,0
+TXN100850,463.2,7,Entertainment,Chennai,Mobile,11,0,0
+TXN100851,407.59,18,Healthcare,Delhi,ATM,7,0,0
+TXN100852,1650.12,2,Grocery,Mumbai,POS Terminal,10,0,0
+TXN100853,686.14,12,Clothing,Pune,POS Terminal,7,0,0
+TXN100854,878.82,10,Grocery,Pune,Mobile,6,1,0
+TXN100855,674.51,4,Fuel,Chennai,Mobile,5,0,0
+TXN100856,931.3,14,Entertainment,Delhi,Tablet,4,0,0
+TXN100857,1017.36,7,Travel,Hyderabad,Desktop,15,2,1
+TXN100858,95.87,4,Grocery,Chennai,Desktop,10,0,0
+TXN100859,1295.4,15,Fuel,Coimbatore,POS Terminal,3,0,0
+TXN100860,249.13,4,Healthcare,Pune,Desktop,13,0,0
+TXN100861,157.23,16,Electronics,Hyderabad,Mobile,3,0,0
+TXN100862,627.4,3,Grocery,Madurai,Mobile,9,0,0
+TXN100863,723.41,10,Grocery,Madurai,Mobile,3,0,0
+TXN100864,332.45,19,Fuel,Kolkata,Mobile,6,0,0
+TXN100865,1526.96,5,Fuel,Coimbatore,Mobile,10,0,0
+TXN100866,173.79,18,Entertainment,Chennai,POS Terminal,15,0,0
+TXN100867,442.77,17,Entertainment,Hyderabad,POS Terminal,15,0,1
+TXN100868,370.6,21,Online Services,Pune,Desktop,14,0,0
+TXN100869,634.87,4,Entertainment,Chennai,Mobile,4,0,0
+TXN100870,879.07,17,Electronics,Coimbatore,Tablet,2,0,0
+TXN100871,242.77,22,Fuel,Bangalore,POS Terminal,14,0,0
+TXN100872,1372.35,18,Electronics,Chennai,POS Terminal,14,0,0
+TXN100873,708.4,4,Travel,Mumbai,Desktop,5,0,0
+TXN100874,100.29,19,Online Services,Coimbatore,POS Terminal,1,0,0
+TXN100875,93.82,2,Clothing,Chennai,Desktop,10,0,1
+TXN100876,657.0,14,Healthcare,Coimbatore,Desktop,2,0,0
+TXN100877,533.27,11,Restaurants,Pune,POS Terminal,1,0,0
+TXN100878,599.79,12,Fuel,Pune,Mobile,15,0,0
+TXN100879,646.79,12,Restaurants,Hyderabad,Mobile,8,0,0
+TXN100880,833.44,0,Grocery,Bangalore,Mobile,2,0,0
+TXN100881,1715.83,12,Electronics,Kolkata,Desktop,10,0,0
+TXN100882,218.96,22,Restaurants,Chennai,Desktop,6,2,0
+TXN100883,206.03,10,Grocery,Mumbai,Tablet,9,0,0
+TXN100884,222.89,6,Online Services,Mumbai,Mobile,14,0,0
+TXN100885,887.95,23,Grocery,Delhi,Mobile,4,0,0
+TXN100886,2309.87,2,Grocery,Coimbatore,POS Terminal,10,0,0
+TXN100887,432.1,11,Entertainment,Delhi,Mobile,13,0,0
+TXN100888,54.51,12,Grocery,Mumbai,POS Terminal,7,0,0
+TXN100889,121.03,11,Online Services,Kolkata,Mobile,15,1,1
+TXN100890,289.16,22,Clothing,Chennai,Desktop,7,0,0
+TXN100891,380.8,10,Grocery,Mumbai,Desktop,7,2,0
+TXN100892,442.13,23,Clothing,Kolkata,POS Terminal,14,0,0
+TXN100893,691.31,1,Fuel,Coimbatore,Mobile,10,1,0
+TXN100894,486.99,17,Entertainment,Delhi,POS Terminal,14,0,0
+TXN100895,1899.49,14,Jewelry,Trichy,Desktop,12,0,0
+TXN100896,338.32,5,Clothing,Delhi,Desktop,11,0,0
+TXN100897,280.81,5,Fuel,Mumbai,Desktop,4,0,0
+TXN100898,1073.71,17,Travel,Chennai,Mobile,6,0,0
+TXN100899,143.22,15,Clothing,Trichy,Desktop,13,0,0
+TXN100900,982.1,14,Healthcare,Delhi,Mobile,10,0,0
+TXN100901,736.97,1,Fuel,Coimbatore,Mobile,5,0,0
+TXN100902,573.96,14,Clothing,Bangalore,Desktop,5,0,0
+TXN100903,3256.07,23,Restaurants,Trichy,Desktop,12,1,0
+TXN100904,357.02,0,Entertainment,Pune,Mobile,3,0,0
+TXN100905,5220.24,11,Healthcare,Hyderabad,Mobile,2,0,0
+TXN100906,530.9,11,Grocery,Pune,Mobile,12,0,0
+TXN100907,185.49,21,Electronics,Chennai,Mobile,5,0,0
+TXN100908,713.31,6,Fuel,Coimbatore,Desktop,12,0,0
+TXN100909,226.73,11,Restaurants,Mumbai,Mobile,9,2,0
+TXN100910,313.64,17,Fuel,Mumbai,POS Terminal,15,0,0
+TXN100911,989.34,1,Grocery,Delhi,Mobile,8,0,0
+TXN100912,1159.31,19,Restaurants,Pune,Mobile,14,0,0
+TXN100913,357.03,19,Fuel,Kolkata,POS Terminal,13,0,0
+TXN100914,1785.41,17,Fuel,Chennai,Mobile,4,0,0
+TXN100915,2116.48,15,Clothing,Madurai,Mobile,15,0,0
+TXN100916,2797.0,17,Clothing,Pune,ATM,12,0,0
+TXN100917,1129.37,18,Fuel,Hyderabad,POS Terminal,2,0,0
+TXN100918,2600.42,21,Entertainment,Kolkata,POS Terminal,1,0,0
+TXN100919,101.41,10,Fuel,Hyderabad,Mobile,5,1,0
+TXN100920,484.0,10,Fuel,Trichy,Desktop,1,0,0
+TXN100921,279.5,15,Fuel,Bangalore,ATM,6,0,0
+TXN100922,749.36,4,Grocery,Kolkata,POS Terminal,15,0,0
+TXN100923,375.61,20,Electronics,Mumbai,Mobile,8,0,0
+TXN100924,563.32,18,Restaurants,Chennai,Mobile,1,0,0
+TXN100925,4368.5,15,Online Services,Coimbatore,Mobile,8,0,0
+TXN100926,561.31,7,Clothing,Kolkata,Mobile,4,0,0
+TXN100927,1006.06,8,Grocery,Pune,Tablet,13,0,0
+TXN100928,527.28,10,Fuel,Delhi,Mobile,2,0,0
+TXN100929,717.46,15,Electronics,Trichy,Mobile,12,0,0
+TXN100930,669.16,18,Clothing,Mumbai,Mobile,7,0,0
+TXN100931,1041.4,16,Jewelry,Kolkata,Desktop,1,0,0
+TXN100932,2133.05,22,Fuel,Mumbai,Mobile,11,0,0
+TXN100933,3454.37,23,Fuel,Hyderabad,Mobile,7,0,0
+TXN100934,906.53,16,Travel,Bangalore,Mobile,12,0,0
+TXN100935,1199.36,8,Restaurants,Coimbatore,ATM,10,0,0
+TXN100936,210.43,14,Online Services,Coimbatore,Mobile,12,0,0
+TXN100937,609.19,10,Clothing,Delhi,Desktop,7,1,0
+TXN100938,1703.24,15,Restaurants,Trichy,Mobile,1,0,0
+TXN100939,1581.25,19,Travel,Trichy,Mobile,2,0,0
+TXN100940,821.89,8,Grocery,Madurai,Mobile,7,0,0
+TXN100941,1613.88,12,Grocery,Delhi,Mobile,6,0,0
+TXN100942,1086.55,1,Grocery,Mumbai,Mobile,12,0,0
+TXN100943,2209.02,17,Travel,Hyderabad,Desktop,7,0,0
+TXN100944,888.34,11,Online Services,Hyderabad,Tablet,13,3,1
+TXN100945,466.05,11,Restaurants,Chennai,Mobile,3,0,0
+TXN100946,930.61,12,Electronics,Madurai,Mobile,6,0,0
+TXN100947,50.0,5,Grocery,Trichy,Desktop,12,0,0
+TXN100948,975.44,14,Travel,Delhi,Mobile,2,0,0
+TXN100949,50.0,17,Entertainment,Delhi,Mobile,5,1,0
+TXN100950,118.69,8,Restaurants,Coimbatore,Mobile,12,1,0
+TXN100951,1045.0,3,Entertainment,Coimbatore,Mobile,9,1,0
+TXN100952,1072.27,9,Entertainment,Madurai,Desktop,12,0,0
+TXN100953,208.01,4,Grocery,Kolkata,ATM,8,0,1
+TXN100954,326.33,8,Fuel,Bangalore,ATM,13,0,0
+TXN100955,2618.98,15,Healthcare,Delhi,ATM,14,0,0
+TXN100956,409.92,2,Restaurants,Bangalore,Mobile,15,0,0
+TXN100957,6266.17,17,Grocery,Mumbai,Mobile,2,0,0
+TXN100958,663.87,5,Online Services,Hyderabad,Mobile,9,0,0
+TXN100959,1000.28,21,Online Services,Coimbatore,Mobile,2,1,0
+TXN100960,3350.53,17,Restaurants,Kolkata,Mobile,4,0,0
+TXN100961,758.26,6,Fuel,Delhi,Mobile,5,2,0
+TXN100962,244.12,13,Electronics,Delhi,Desktop,10,0,0
+TXN100963,596.02,2,Entertainment,Pune,Mobile,7,0,0
+TXN100964,641.87,2,Restaurants,Coimbatore,Mobile,13,0,0
+TXN100965,169.91,22,Grocery,Trichy,POS Terminal,5,0,0
+TXN100966,515.0,19,Clothing,Hyderabad,Mobile,10,0,0
+TXN100967,316.65,3,Healthcare,Madurai,POS Terminal,12,0,0
+TXN100968,1676.32,6,Jewelry,Bangalore,Mobile,15,0,0
+TXN100969,688.57,4,Electronics,Coimbatore,Desktop,4,1,1
+TXN100970,501.3,9,Grocery,Madurai,Mobile,12,0,0
+TXN100971,598.14,6,Online Services,Madurai,Desktop,2,0,0
+TXN100972,831.41,7,Online Services,Madurai,Mobile,9,0,0
+TXN100973,1232.52,12,Fuel,Delhi,Mobile,7,0,0
+TXN100974,244.76,4,Fuel,Hyderabad,Desktop,15,0,0
+TXN100975,234.72,21,Restaurants,Bangalore,Mobile,12,0,0
+TXN100976,2007.57,17,Restaurants,Chennai,Mobile,14,0,0
+TXN100977,440.39,18,Grocery,Hyderabad,POS Terminal,13,0,0
+TXN100978,161.28,4,Grocery,Chennai,Mobile,7,0,0
+TXN100979,1036.72,16,Electronics,Madurai,Desktop,12,0,0
+TXN100980,1057.19,20,Jewelry,Bangalore,Desktop,1,2,1
+TXN100981,143.92,4,Grocery,Chennai,Mobile,9,0,0
+TXN100982,836.71,18,Electronics,Madurai,Desktop,1,0,0
+TXN100983,1387.95,8,Fuel,Coimbatore,Mobile,11,0,0
+TXN100984,967.18,18,Electronics,Kolkata,POS Terminal,15,0,0
+TXN100985,1251.35,11,Grocery,Kolkata,Mobile,11,0,0
+TXN100986,163.32,19,Fuel,Trichy,Mobile,13,0,0
+TXN100987,926.15,3,Travel,Mumbai,Mobile,4,0,1
+TXN100988,491.46,9,Fuel,Mumbai,POS Terminal,15,0,0
+TXN100989,410.43,6,Online Services,Madurai,POS Terminal,9,0,0
+TXN100990,1588.52,5,Grocery,Bangalore,POS Terminal,11,1,0
+TXN100991,2919.81,7,Online Services,Delhi,Tablet,12,0,0
+TXN100992,4001.28,9,Online Services,Madurai,Tablet,10,0,0
+TXN100993,2477.01,3,Jewelry,Trichy,Desktop,5,2,1
+TXN100994,596.01,16,Fuel,Madurai,POS Terminal,10,0,0
+TXN100995,946.45,13,Fuel,Coimbatore,Desktop,10,0,0
+TXN100996,1431.99,19,Fuel,Madurai,Mobile,13,0,0
+TXN100997,750.83,16,Clothing,Coimbatore,Desktop,8,0,0
+TXN100998,758.06,3,Grocery,Chennai,Desktop,8,0,0
+TXN100999,1515.88,1,Healthcare,Pune,Mobile,8,0,0
