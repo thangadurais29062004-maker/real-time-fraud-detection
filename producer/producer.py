@@ -9,7 +9,7 @@ from confluent_kafka import Producer
 TOPIC = "transactions"
 producer = Producer({"bootstrap.servers": "localhost:9092"})
 
-df = pd.read_csv("fraud_dataset.csv")
+df = pd.read_csv("demo_stream.csv")
 df = df.drop(columns=["transaction_id"], errors="ignore")
 
 
