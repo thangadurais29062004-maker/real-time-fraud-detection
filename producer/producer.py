@@ -23,6 +23,7 @@ try:
     while True:
         row = json.loads(df.sample(1).iloc[0].to_json())
         row["transaction_id"] = str(uuid.uuid4())
+        row["user_id"] = f"user_{random.randint(1, 50)}"
         row["actual_is_fraud"] = row.pop("is_fraud")   # for evaluation only, never a model input
         row["timestamp"] = time.time()
 

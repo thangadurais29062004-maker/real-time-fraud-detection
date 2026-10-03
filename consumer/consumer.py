@@ -37,13 +37,21 @@ cur.execute("""
         created_at TIMESTAMPTZ DEFAULT NOW()
     )
 """)
+cur.execute("""
+    ALTER TABLE predictions
+        ADD COLUMN IF NOT EXISTS user_id TEXT,
+        ADD COLUMN IF NOT EXISTS tx_count_5m INT,
+        ADD COLUMN IF NOT EXISTS avg_amount_5m DOUBLE PRECISION,
+        ADD COLUMN IF NOT EXISTS distinct_locations_5m INT,
+        ADD COLUMN IF NOT EXISTS secs_since_last_tx DOUBLE PRECISION
+""")
 
 consumer = Consumer({
     "bootstrap.servers": "localhost:9092",
-    "group.id": "fraud-scorer",
+    "group.id": "fraud-scorer-enriched",
     "auto.offset.reset": "earliest",
 })
-consumer.subscribe(["transactions"])
+consumer.subscribe(["enriched_transactions"])
 
 
 def decide(score):
@@ -74,12 +82,16 @@ try:
             """INSERT INTO predictions
                (transaction_id, amount, transaction_hour, merchant_category, location,
                 device_type, transaction_frequency, previous_fraud_count,
-                risk_score, decision, actual_is_fraud)
-               VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)""",
+                risk_score, decision, actual_is_fraud,
+                user_id, tx_count_5m, avg_amount_5m, distinct_locations_5m,
+                secs_since_last_tx)
+               VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)""",
             (tx["transaction_id"], tx["amount"], tx["transaction_hour"],
              tx["merchant_category"], tx["location"], tx["device_type"],
              tx["transaction_frequency"], tx["previous_fraud_count"],
-             score, decision, tx.get("actual_is_fraud")),
+             score, decision, tx.get("actual_is_fraud"),
+             tx.get("user_id"), tx.get("tx_count_5m"), tx.get("avg_amount_5m"),
+             tx.get("distinct_locations_5m"), tx.get("secs_since_last_tx")),
         )
 
         # Redis: fast counters + latest alerts for the dashboard

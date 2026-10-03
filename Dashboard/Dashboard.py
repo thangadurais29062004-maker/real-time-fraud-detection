@@ -78,9 +78,10 @@ def live():
                          FROM predictions GROUP BY decision ORDER BY decision""")
         st.dataframe(check, width="stretch", hide_index=True)
 
-    st.subheader("Latest transactions (PostgreSQL)")
-    latest = query("""SELECT created_at, transaction_id, amount, merchant_category, location,
-                             device_type, risk_score, decision
+    st.subheader("Latest transactions with real-time Spark features (PostgreSQL)")
+    latest = query("""SELECT created_at, user_id, amount, location, risk_score, decision,
+                             tx_count_5m, avg_amount_5m, distinct_locations_5m,
+                             secs_since_last_tx
                       FROM predictions ORDER BY id DESC LIMIT 20""")
     st.dataframe(latest, width="stretch", hide_index=True)
 
